@@ -19,8 +19,6 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-[![MIT License][license-shield]][license-url]
-
 <h3 align="center">Example:  Rust Web Scraper</h3>
 
   <p align="center">
@@ -79,7 +77,5 @@ Project Link: [https://github.com/KnowledgeNerd/rust_web_scrapper](https://githu
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[license-shield]: https://img.shields.io/github/license/KnowledgeNerd/rust_web_scrapper.svg?style=for-the-badge
-[license-url]: https://github.com/KnowledgeNerd/rust_web_scrapper/blob/master/LICENSE.txt
 [Rust]: https://img.shields.io/badge/Made_with_Rust-000000?style=for-the-badge&logo=rust
 [Rust-url]: https://www.rust-lang.org/
